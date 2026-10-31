@@ -4,10 +4,40 @@ A full-stack web application that helps a recruiter create jobs, upload resumes,
 explainable, ranked shortlist of candidates. Most of each score is calculated by transparent code;
 the AI extracts information, explains results, and contributes only 5% of the score.
 
-Built as a college final-year and portfolio project. It runs entirely on free tiers.
+It runs entirely on free tiers and needs no Docker.
 
 > AI recommendations are decision-support tools. Final hiring decisions should be made by a human
 > recruiter.
+
+## Project Details
+
+| Field | Details |
+| --- | --- |
+| Project No. | P_204 |
+| Programme | HCLTech Career Shaper Programme, Industry Project, 2025-26 |
+| Learner | Shrishti Yadav |
+| Domain | Artificial Intelligence / Full-Stack Web Development |
+| Format | Individual project, 4 weeks |
+
+## Contents
+
+- [Features](#features)
+- [Architecture](#architecture)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Database Schema](#database-schema)
+- [AI Workflow](#ai-workflow)
+- [Scoring Algorithm](#scoring-algorithm)
+- [Local Setup](#local-setup)
+- [Testing](#testing)
+- [CI/CD](#cicd)
+- [Deployment](#deployment)
+- [Screenshots](#screenshots)
+- [Free-Tier Limitations](#free-tier-limitations)
+- [Known Limitations](#known-limitations)
+- [Future Improvements](#future-improvements)
+
+The full project report is in [docs/PROJECT_REPORT.md](docs/PROJECT_REPORT.md).
 
 ## Features
 
