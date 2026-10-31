@@ -16,6 +16,7 @@ It runs entirely on free tiers and needs no Docker.
 | Project No. | P_204 |
 | Programme | HCLTech Career Shaper Programme, Industry Project, 2025-26 |
 | Learner | Shrishti Yadav |
+| College | ABES Engineering College |
 | Domain | Artificial Intelligence / Full-Stack Web Development |
 | Format | Individual project, 4 weeks |
 
